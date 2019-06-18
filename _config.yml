@@ -1,3 +1,6 @@
 theme: jekyll-theme-tactile
 title: Distort Project Homepage
 description: Communicate anonymously safely using your existing online accounts.
+# helps GHpages identify sub resources and links using relative addressing.
+# because project is at ubc-nss.github.io/distortapp.org, we specify a matching baseurl
+baseurl: /distortapp.org
