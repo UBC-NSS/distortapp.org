@@ -1,5 +1,5 @@
 ---
-title: distort documentation
+title: Documentation
 permalink: /documentation/
 ---
 
