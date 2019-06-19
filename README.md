@@ -1,4 +1,9 @@
-## Welcome to the homepage for the Distort project
+---
+permalink: /
+title: Home
+---
+
+## The Distort project
 
 You can use the [editor on GitHub](https://github.com/UBC-NSS/distortapp.org/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
