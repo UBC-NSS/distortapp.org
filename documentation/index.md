@@ -1,5 +1,6 @@
 ---
 title: Documentation
+description: Main documentation
 permalink: /documentation/
 ---
 
