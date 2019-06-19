@@ -14,7 +14,11 @@
 
   <body>
     <div id="container">
-      {% include navbar.html %}
+      <div id="header_wrap" class="outer">
+        <header class="inner">
+          {% include navbar.html %}
+        </header>
+      </div>
       <div class="inner">
         <header>
           <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
