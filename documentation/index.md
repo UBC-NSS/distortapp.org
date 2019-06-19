@@ -1,5 +1,6 @@
 ---
 title: distort documentation
+permalink: /documentation/
 ---
 
 # This is a H1
