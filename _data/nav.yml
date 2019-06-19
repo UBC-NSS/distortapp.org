@@ -1,0 +1,12 @@
+- title: "Home"
+  href: "/"
+
+- title: "Download"
+  href: "/download/"
+
+- title: "Documentation"
+  subcategories:
+    - subtitle: "Example1"
+      subhref: "#"
+    - subtitle: "Example2"
+      subhref: "#"
