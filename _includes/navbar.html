@@ -3,11 +3,11 @@
     {% for nav in site.data.nav %}
       {% if nav.title == page.title %}
          <li class="active">
-           <small><a href="{{ nav.url }}">{{ nav.title }}</a></small>
+           <small><a href="{{ nav.href }}">{{ nav.title }}</a></small>
          </li>
       {% else %} 
          <li>
-           <small><a href="{{ nav.url }}">{{ nav.title }}</a></small>
+           <small><a href="{{ nav.href }}">{{ nav.title }}</a></small>
          </li>
       {% endif %}
     {% endfor %}
