@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: Home
+title: Distort
 ---
 
 ## The Distort project
