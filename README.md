@@ -1,6 +1,7 @@
 ## The Distort project
 
-This is the repository backing the homepage of the distort project, at https://www.distortapp.org
+This is the repository backing the homepage of the distort project, at
+https://www.distortapp.org
 
 You can use the [editor on
 GitHub](https://github.com/UBC-NSS/distortapp.org/edit/master/README.md)
