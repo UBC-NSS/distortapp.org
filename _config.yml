@@ -1,7 +1,21 @@
-theme: jekyll-theme-tactile
-title: Distort Project Homepage
+#theme: 'just-the-docs'
+
+title: Distort Project
 description: Anonymous and Confidential messaging on the public Internet.
 
 # Added to all absolute links as a prefix. href="/foo.css" becomes href="{baseurl}/foo.csss
 # leave to empty string because we're running from the root of the repo.
 # baseurl: /distortapp.org
+
+# Configuration information:
+# https://pmarsceill.github.io/just-the-docs/
+remote_theme: "UBC-NSS/just-the-docs"
+
+# Enable or disable the site search
+search_enabled: true
+
+# (www.)distortapp.org google analytics
+ga_tracking: "UA-74369115-2"
+
+# dark or nil
+# color_scheme: "dark"

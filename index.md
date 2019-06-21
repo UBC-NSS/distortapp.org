@@ -1,9 +1,10 @@
 ---
 permalink: /
 title: Distort
+nav_order: 0
 ---
 
-## Anonymity, Confidentiality, and Convenience.
+# Anonymity, Confidentiality, and Convenience.
 
 Put simply, Distort restores the ability to have a closed door
 conversation _online_.
@@ -43,9 +44,9 @@ a working prototype, which we are testing on various messaging technology backen
 
 ## Milestones:
 
- - Alpha extension to the google app store.
- - Installation and usage instructions.
- - Provide messaging statistics and network health.
+ - [ ] Alpha extension to the google app store.
+ - [ ] Installation and usage instructions.
+ - [ ] Provide messaging statistics and network health.
 
 ## I'd like to get involved!
 

@@ -2,6 +2,7 @@
 title: Documentation
 description: Main documentation
 permalink: /documentation/
+nav_order: 1
 ---
 
 ### How it works.
