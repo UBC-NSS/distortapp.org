@@ -4,10 +4,12 @@ description: Main documentation
 permalink: /documentation/
 ---
 
-# This is a H1
+### How it works.
 
-[the clickable text](http://xlson.com/)
+#### Overall architecture (clients, certificates, broadcasts, etc.)
 
-* Bullet lists are also easy to create
-* One more
----
+### Installation.
+
+### Configuration.
+
+### Usage instructions.
